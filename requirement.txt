@@ -1,0 +1,6 @@
+snowflake
+pandas
+python
+URLError
+streamlit
+requests
